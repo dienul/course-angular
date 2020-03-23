@@ -7,6 +7,8 @@ import { AppComponent } from './app.component';
 import { from } from 'rxjs';
 import { CourseComponent } from './course/course.component';
 
+// import { service } from './courses.service'
+
 @NgModule({
   declarations: [
     AppComponent,
